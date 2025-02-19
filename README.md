@@ -1,4 +1,4 @@
-# PPaleGL_OLD
+# PaleGL_OLD
 
 ## demos
 
